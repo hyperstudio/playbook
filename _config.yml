@@ -1,7 +1,7 @@
 permalink: pretty
 markdown: rdiscount
 highlighter: pygments
-url: http://hyperstudio.github.io/playbook/
+url: http://dhplaybook.org
 
 collections:
   - plays
