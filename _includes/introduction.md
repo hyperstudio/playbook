@@ -1,5 +1,9 @@
 # The Hyperstudio Playbook
 
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.   
+Digital Humanities projects are often exploratory and iterative in nature; they typically have small budgets and small teams; they are interdisciplinary and collaborative.
 
-Today, too many of our digital services projects do not work well, are delivered late, or are over budget. To increase the success rate of these projects, the U.S. Government needs a new approach. We created a playbook of 13 key “plays” drawn from successful best practices from the private sector and government that, if followed together, will help government build effective digital services.
+In developing over a dozen Digital Humanities software projects over the course of last 10 years at MIT Hyperstudio, we've developed strategies, approaches, and patterns that work very well under those constraints.
+
+This playbook, modeled on the [U.S. Digital Services Playbook](https://playbook.cio.gov/), is our attempt to codify those strategies.
+
+It is a work in progress; we welcome your feedback, ideas, and input; if it looks useful, we invite you to fork it and modify it for your own DH practice.
