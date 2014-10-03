@@ -2,7 +2,7 @@ permalink: pretty
 markdown: rdiscount
 highlighter: pygments
 url: http://hyperstudio.github.io/playbook
-baseurl: http://hyperstudio.github.io/playbook
+baseurl: http://hyperstudio.github.io/
 
 collections:
   - plays
